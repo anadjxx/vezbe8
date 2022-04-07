@@ -39,7 +39,7 @@ codeunit 50402 "BCCountry/Region-Install"
 }
 
 //prva izmena
-//moja druga izmena
+//ana djelmas norvezanka
 //treca izmena
 //cetvta izmena
 //peta izmena
