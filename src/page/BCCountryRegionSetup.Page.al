@@ -63,4 +63,6 @@ page 50400 "BCCountry/Region Setup"
             Rec.Insert();
         end;
     end;
+
+    // promena 
 }
