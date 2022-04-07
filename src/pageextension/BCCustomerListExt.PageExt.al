@@ -29,3 +29,5 @@ pageextension 50400 "BCCustomerListExt" extends "Customer List"
     begin
     end;
 }
+
+//komentar neki
