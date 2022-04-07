@@ -39,7 +39,7 @@ codeunit 50402 "BCCountry/Region-Install"
 }
 
 //prva izmena
-//moja druga izmena
+//druga izmena
 //treca izmena
 //cetvta izmena
 //peta izmena
