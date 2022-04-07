@@ -70,4 +70,6 @@ page 50400 "BCCountry/Region Setup"
 
     //promena33
 
+    //linbrun
+
 }
