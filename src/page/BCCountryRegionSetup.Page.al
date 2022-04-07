@@ -68,6 +68,6 @@ page 50400 "BCCountry/Region Setup"
 
     // promena na feature22
 
-    //promena3
+    //promena33
 
 }
