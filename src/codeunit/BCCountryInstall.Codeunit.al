@@ -1,4 +1,4 @@
-codeunit 50402 "BCCountry/Region-Install"
+codeunit 50402 "BCCountry-Install"
 {
     Subtype = Install;
 
